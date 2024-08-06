@@ -6,8 +6,8 @@ I'm a full stack developer looking to grow personally and professionally, and to
 ```javascript
 const marta = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Astro, Node],
+  code: [Javascript, HTML, CSS, SQL],
+  tools: [React, Astro, Node, Tailwind],
 }
 ```
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh3ZnhnN21sZjh0Mng2NXh0ZW10OWsxaXMzeXBydmZidmR4cnlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200"> 
