@@ -9,4 +9,4 @@ const marta = {
 }
 ```
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnh3ZnhnN21sZjh0Mng2NXh0ZW10OWsxaXMzeXBydmZidmR4cnlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="200"> 
-You can reach me on <b>mgn9907@gmail.com</b> 🌟
+You can reach me at <b>mgn9907@gmail.com</b> 🌟
