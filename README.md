@@ -7,11 +7,11 @@ If you’d like to collaborate or just say hi, feel free to reach out — I’d 
 
 ---
 
-### 🧠 About Me (in code)
+### 🧠 About me
 ```javascript
 const marta = {
   pronouns: "she" | "her",
-  languages: ["JavaScript", "HTML", "CSS", "SQL"],
+  languages: ["HTML", "CSS", "JavaScript", "SQL"],
   technologies: ["React", "Astro", "Node.js", "Tailwind CSS", "Express"],
   databases: ["MySQL", "MongoDB"],
   currentlyLearning: ["Python"],
